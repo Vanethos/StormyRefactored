@@ -12,3 +12,12 @@ The following features were also added:
 * Different layouts were added to accomodate the tablet, with the use of viewpagers.
 * Interfaces were added to communicate information between fragments
 * A different layout for the Landscape mode in the phones was added, to enhance the user experience.
+
+## Tablet Layouts
+
+![Tablet Layout 1](https://raw.githubusercontent.com/Vanethos/StormyRefactored/ReadmeChange/Stormy/Tablet_1.png)
+![Tablet Layout 2](https://raw.githubusercontent.com/Vanethos/StormyRefactored/ReadmeChange/Stormy/Tablet_2.png)
+
+## Added Phone Layouts
+
+![Phone Landscape](https://raw.githubusercontent.com/Vanethos/StormyRefactored/ReadmeChange/Stormy/Phone%204.png "Phone Landscape")
